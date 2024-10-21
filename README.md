@@ -36,7 +36,7 @@ Replace `filename.js` with the name of the assignment file you want to run.
 ## Project Descriptions
 
 ### Project 1: [towSum]
-**Description:** Create a Node.js server that accepts two numbers through a URL query string and returns the sum of those numbers as a response.
+**Description:** Create a Node.js server that accepts two numbers through a URL query string and returns the sum of those numbers as a response.<br>
 **Setup:**
 - Ensure you have Node.js installed on your system.
 - Create a new directory for your project.
@@ -45,7 +45,7 @@ Replace `filename.js` with the name of the assignment file you want to run.
 - Open the terminal and run the following command to initialize a package.json file: npm init -y
 
 ### Project 2: [guessNumberGame]
-**Description:** In this exercise, we'll create a simple "Guess the Number" game using Node.js and NPM packages. The game will generate a random number, and the player will have to guess that number. The game will provide hints if the player's guess is too high or too low.
+**Description:** In this exercise, we'll create a simple "Guess the Number" game using Node.js and NPM packages. The game will generate a random number, and the player will have to guess that number. The game will provide hints if the player's guess is too high or too low. <br>
 **Setup:**
 - Initialize a new Node.js project by running the following command: `npm init`
 - Install the readline-sync package, which will help us read input from the user.
